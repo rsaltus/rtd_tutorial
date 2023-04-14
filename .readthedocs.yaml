@@ -7,3 +7,12 @@ build:
 
 sphinx:
   fail_on_warning: true
+
+formats:
+  - pdf
+  - epub
+
+python:
+  install:
+    - method: pip
+      path: .
