@@ -9,6 +9,8 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+This project was built using Read the Docs!
+
 .. note::
 
    This project is under active development.
